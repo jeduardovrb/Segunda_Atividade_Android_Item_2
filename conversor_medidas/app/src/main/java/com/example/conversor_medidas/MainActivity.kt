@@ -52,8 +52,6 @@ class MainActivity : AppCompatActivity() {
             var vTexto = ""
 
             if (vValor != ""){
-
-
                 if(vSelecaoVlr == 0){ // km
                     if (vSelecaoConversao == 1) { // metros
                         vTexto = "Resultado: "
